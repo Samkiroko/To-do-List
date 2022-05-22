@@ -19,7 +19,7 @@
 
 - All data is stored in local Storage
   
-## The Live Version - [To-do App](https://sam-twitter-capstone.herokuapp.com/)
+## The Live Version - [To-do App](https://samkiroko.github.io/To-do-List/)
 
 ## App Screen
 
@@ -33,7 +33,7 @@
 
 ### Usage
 
-Clone the repository to your machine and \cd into the directory
+Clone the repository to your machine and cd into the directory
 
 ```` txt
 git clone git@github.com:Samkiroko/To-do-List.git
@@ -63,8 +63,6 @@ Feel free to check the [issues page](https://github.com/Samkiroko/To-do-List/iss
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-
 
 [contributors-shield]: https://img.shields.io/github/contributors/Samkiroko/To-do-List.svg?style=flat-square
 [contributors-url]: https://github.com/Samkiroko/To-do-List/graphs/contributors
